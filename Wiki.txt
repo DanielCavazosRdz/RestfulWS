@@ -1,0 +1,13 @@
+Acerca De:
+Esta aplicación es un proyecto que utiliza Spring Framework, para que se pueda ver todas las diferentes cosas que puede hacer,
+así como muchos ejemplos que varían entre llamadas de métodos y estados de Http, pero también el uso de las anotaciones que vienen con este framework. 
+
+Proyecto:
+La aplicación en si tiene muchas funcionalidades diferentes, ya sean notificaciones, subidas y descargas de archivos y una manera de manejar algunos usuarios.
+hay una variedad de paquetes, cada uno con informacion importante para que la aplicacion pueda tener su funcionalidad
+Si ves las clases, puedes ver que hay un tipo de patron que se deberia de seguir para que toda la aplicacion pueda tener una estructura mas facil de manejar
+si va a correr esta aplicacion, se encesitaria un servidor web y un tipo de IDE que pueda correr aplicaciones web.
+
+Guias:
+Yo Recomiendo que si quieres ver todo con una mejor estructura, usar el IDE de eclipse, preferiblemente, el neon 2, y tambien deberias de descargar el Spring Tool Set
+para que puedas trabajar en esto. Si lo quieres exportar a un war, dentro de Eclipse, ya estaria muy facil, solo le das clic derecho a el proyecto, te diriges a exportar y eliges archivo war.
